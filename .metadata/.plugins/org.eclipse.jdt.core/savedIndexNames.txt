@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\dev\androidDevGit\Gossip\.metadata\.plugins\org.eclipse.jdt.core
+3694439605.index
+2330462587.index
+1284074322.index
+3139567196.index
