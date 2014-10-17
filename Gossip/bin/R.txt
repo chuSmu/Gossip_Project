@@ -257,6 +257,7 @@ int id edit_query 0x7f050030
 int id end 0x7f050013
 int id expand_activities_button 0x7f050026
 int id expanded_menu 0x7f05002c
+int id headline 0x7f05003c
 int id home 0x7f050014
 int id homeAsUp 0x7f050005
 int id icon 0x7f05002a
