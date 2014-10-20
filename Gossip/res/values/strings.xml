@@ -3,5 +3,6 @@
 
     <string name="app_name">Gossip</string>
     <string name="hello_world">Hello world!</string>
+    <string name="new_gossip" >new</string>
 
 </resources>
