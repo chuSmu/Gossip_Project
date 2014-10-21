@@ -3,6 +3,10 @@
 
     <string name="app_name">Gossip</string>
     <string name="hello_world">Hello world!</string>
-    <string name="new_gossip" >new</string>
+    <string name="new_gossip">New</string>
+    <string name="your_gossip">Your Gossip</string>
+    <string name="recipicient">Recipicient</string>
+    <string name="your_emotion">Your Emotion</string>
+    <string name="submit">submit</string>
 
 </resources>
