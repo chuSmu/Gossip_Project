@@ -8,5 +8,7 @@
     <string name="recipient">Recipient</string>
     <string name="your_emotion">Your Emotion</string>
     <string name="submit">submit</string>
+    <string name="homeHeadline">New Gossip circulating around..</string>
+    <string name="my_gossip">Deine Gossips</string>
 
 </resources>

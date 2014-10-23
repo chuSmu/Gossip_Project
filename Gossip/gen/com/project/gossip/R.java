@@ -1073,7 +1073,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int LinearLayout2=0x7f09003c;
-        public static final int RelativeLayout1=0x7f09003f;
+        public static final int RelativeLayout1=0x7f090042;
         public static final int action_bar=0x7f09001c;
         public static final int action_bar_activity_content=0x7f090001;
         public static final int action_bar_container=0x7f09001b;
@@ -1088,30 +1088,34 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f090025;
         public static final int always=0x7f09000f;
         public static final int beginning=0x7f090016;
-        public static final int button1=0x7f09003e;
+        public static final int button1=0x7f090049;
         public static final int checkbox=0x7f09002d;
         public static final int collapseActionView=0x7f090010;
         public static final int default_activity_button=0x7f090028;
         public static final int dialog=0x7f090014;
         public static final int disableHome=0x7f090009;
         public static final int dropdown=0x7f090015;
-        public static final int editText1=0x7f090041;
-        public static final int editText2=0x7f090043;
+        public static final int editText1=0x7f090044;
+        public static final int editText2=0x7f090046;
         public static final int edit_query=0x7f090030;
         public static final int end=0x7f090017;
         public static final int expand_activities_button=0x7f090026;
         public static final int expanded_menu=0x7f09002c;
         public static final int home=0x7f090000;
         public static final int homeAsUp=0x7f09000a;
+        public static final int homeHeadline=0x7f09003d;
         public static final int icon=0x7f09002a;
         public static final int ifRoom=0x7f090011;
         public static final int image=0x7f090027;
-        public static final int imageButton1=0x7f090045;
+        public static final int imageButton1=0x7f090048;
         public static final int listMode=0x7f090006;
-        public static final int listView1=0x7f09003d;
         public static final int list_item=0x7f090029;
         public static final int middle=0x7f090018;
+        public static final int my_gossip=0x7f090040;
+        public static final int my_gossip_listView=0x7f090041;
         public static final int never=0x7f090012;
+        public static final int new_gossip_button=0x7f09003f;
+        public static final int new_gossip_list=0x7f09003e;
         public static final int none=0x7f090019;
         public static final int normal=0x7f090007;
         public static final int progress_circular=0x7f090004;
@@ -1134,9 +1138,9 @@ containing a value of this type.
         public static final int split_action_bar=0x7f09001e;
         public static final int submit_area=0x7f090039;
         public static final int tabMode=0x7f090008;
-        public static final int textView1=0x7f090040;
-        public static final int textView2=0x7f090042;
-        public static final int textView3=0x7f090044;
+        public static final int textView1=0x7f090043;
+        public static final int textView2=0x7f090045;
+        public static final int textView3=0x7f090047;
         public static final int title=0x7f09002b;
         public static final int top_action_bar=0x7f090020;
         public static final int up=0x7f090021;
@@ -1241,6 +1245,8 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int app_name=0x7f0a000d;
         public static final int hello_world=0x7f0a000e;
+        public static final int homeHeadline=0x7f0a0014;
+        public static final int my_gossip=0x7f0a0015;
         public static final int new_gossip=0x7f0a000f;
         public static final int recipient=0x7f0a0011;
         public static final int submit=0x7f0a0013;
@@ -2630,7 +2636,7 @@ containing a value of this type.
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x01010438
+            0x0101012f, 0x01010130, 0x01010131, 0x0101052f
         };
         /**
           <p>

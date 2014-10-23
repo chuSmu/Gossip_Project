@@ -6,19 +6,33 @@
     android:orientation="vertical"
     tools:context="${relativePackage}.${activityClass}" >
 
+    <TextView
+        android:id="@+id/homeHeadline"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/homeHeadline"
+        android:textSize="20sp"
+        android:gravity="center" />
+
     <ListView
-        android:id="@+id/listView1"
+        android:id="@+id/new_gossip_list"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="8"
-        tools:listitem="@android:layout/simple_list_item_2" >
+        tools:listitem="@android:layout/simple_expandable_list_item_2"
+        android:fastScrollEnabled="true"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" >
     </ListView>
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/new_gossip_button"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"
+        android:layout_weight="1.2"
         android:onClick="startNewGossip"
         android:text="@string/new_gossip" />
 
